@@ -1,0 +1,26 @@
+{
+  "7db682f7eef93447457c7c6151fea64b90ac572de68f628e1cee42931d9096d2": {
+    "changed": true,
+    "result": "[] are visible in the image.",
+    "raw": "assets\\images\\raw\\upload_20251127_172345_14a5.jpg",
+    "annotated": "assets\\images\\annotated\\upload_20251127_172345_14a5_annotated.jpg"
+  },
+  "ac331885aa563e7ecd16770f44018cbe5df239dc1fe3c0e0e180651f140a54a1": {
+    "changed": true,
+    "result": "[] are visible in the image.",
+    "raw": "assets\\images\\raw\\upload_20251127_172344_4884.jpg",
+    "annotated": "assets\\images\\annotated\\upload_20251127_172344_4884_annotated.jpg"
+  },
+  "1110f8ac4363c93eb9506b8a931782ed6684fb191dc10e454504e52f823b457c": {
+    "changed": true,
+    "result": "['Telur Goreng'] are visible in the image.",
+    "raw": "assets\\images\\raw\\upload_20251128_104133_47d1.png",
+    "annotated": "assets\\images\\annotated\\upload_20251128_104133_47d1_annotated.jpg"
+  },
+  "c1e044c202579ec58602bd906d38d814adc4b0fea71f28afb6c4fb7a041e4ea7": {
+    "changed": true,
+    "result": "['Tahu Goreng'] are visible in the image.",
+    "raw": "C:\\Internship\\Torche Indonesia\\Food Nutrition Virtual Assistant - Llava Ver\\assets\\images\\raw\\upload_20251128_234614_fcd9.jpeg",
+    "annotated": "C:\\Internship\\Torche Indonesia\\Food Nutrition Virtual Assistant - Llava Ver\\assets\\images\\annotated\\upload_20251128_234614_fcd9_annotated.jpg"
+  }
+}
